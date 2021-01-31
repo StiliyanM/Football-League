@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FootballLeague", "FootballLeague\FootballLeague.csproj", "{1C50C4F2-8D11-4C9B-ACAA-769D4037D922}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballLeague.Tests", "FootballLeague.Tests\FootballLeague.Tests.csproj", "{175335D2-0B6D-45DF-8272-962599FB65F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C50C4F2-8D11-4C9B-ACAA-769D4037D922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C50C4F2-8D11-4C9B-ACAA-769D4037D922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C50C4F2-8D11-4C9B-ACAA-769D4037D922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C50C4F2-8D11-4C9B-ACAA-769D4037D922}.Release|Any CPU.Build.0 = Release|Any CPU
+		{175335D2-0B6D-45DF-8272-962599FB65F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{175335D2-0B6D-45DF-8272-962599FB65F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{175335D2-0B6D-45DF-8272-962599FB65F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{175335D2-0B6D-45DF-8272-962599FB65F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F82937B3-C9D1-4850-8AB6-A94E1591BC29}
+	EndGlobalSection
+EndGlobal
